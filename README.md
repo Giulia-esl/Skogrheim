@@ -4,10 +4,6 @@
   A next-generation Skyrim Anniversary Edition modlist
   </p>
 
-<p align="center">
-  <img src="Images/skogrheimheader.png" width="100%">
-</p>
-
 [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/190635)
 [Wabbajack](https://www.wabbajack.org)
 [Discord]([Discord])
