@@ -1,7 +1,5 @@
 # CHANGELOG FOR V1.0
 ## Added
-# CHANGELOG FOR V1.0
-## Added
 - SSE Engine Fixes (skse64 plugin)
 - Bug Fixes SSE
 - Address Library All in One (1.7.104.0) v13
