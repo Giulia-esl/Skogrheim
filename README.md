@@ -1,10 +1,11 @@
-# Skogrheim
-A comprehensive Skyrim Anniversary Edition modlist focused on visuals, immersion and modern gameplay.
+Added
 
-> Status: Skogrheim is currently under active development and is not yet available for public installation.
 
-## About Skogrheim
+spada di ferro
+spada acciaio
+elmo ferro
+emo acciaio
 
-Breve descrizione della modlist.
-
-## Design Philosophy
+Removed 
+1
+2
