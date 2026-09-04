@@ -57,6 +57,44 @@
 - Flute Animation Fix
 - Photo Mode
 - Photo Mode - ITA
+Immersive Dialogue Expansion - Dawnguard and Vigilants
+HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)
+FAMILY LIFE - Immersive Dialogue Expansion - Hearthfire
+REBEL NORTH - Immersive Dialogue Expansion - Stormcloaks
+Follower Dialogue Expansion - Lydia
+Follower Dialogue Expansion - Lydia - ITA
+Follower Dialogue Expansion - Olfina Gray-Mane
+Follower Dialogue Expansion - Olfina Gray-Mane - ITA
+Follower Dialogue Expansion - Faendal
+Follower Dialogue Expansion - Faendal - ITA
+Follower Dialogue Expansion - Camilla Valerius
+Follower Dialogue Expansion - Camilla Valerius ITA
+Follower Dialogue Expansion - Mjoll the Lioness
+Follower Dialogue Expansion - Mjoll the Lioness ITA
+Follower Dialogue Expansion - Rayya
+Follower Dialogue Expansion - Rayya ITALIANO
+Follower Dialogue Expansion - Ysolda
+Follower Dialogue Expansion - Uthgerd the Unbroken
+Follower Dialogue Expansion - Jenassa
+Follower Dialogue Expansion - Saadia
+Follower Dialogue Expansion - Ralof
+Follower Dialogue Expansion - Marcurio (FDE)
+Follower Dialogue Expansion - Sapphire (FDE)
+Follower Dialogue Expansion - Illia
+Follower Dialogue Expansion - Brelyna Maryon
+Follower Dialogue Expansion - Faralda
+Follower Dialogue Expansion - Erik the Slayer
+Follower Dialogue Expansion - Lisette
+Follower Dialogue Expansion - Eola
+Follower Dialogue Expansion - Aranea Ienith
+Follower Dialogue Expansion - Roggi Knot-Beard
+Follower Dialogue Expansion - Borgakh the Steel Heart
+Follower Dialogue Expansion - Jordis the Sword-Maiden
+Follower Dialogue Expansion - Senna
+
+
+
+
 - Vanargand Animations II - Male Idle Walk And Run
 - Vanargand Animations II - Female Idle Walk And Run
 - Vanargand Animations II - Sprint
@@ -103,7 +141,8 @@
 - SIGMA - Archery animations - 1st person
 - SigmaJelly - Katana animations - 1st person
 - First-Person Torchlight Animation
-
+- AI Overhaul SSE
+-   
 
 
 
