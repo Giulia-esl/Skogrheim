@@ -5,7 +5,7 @@
   </p>
 
 <p align="center">
-  <img src="Skogrheim main.png" width="100%">
+  <img src="Images/skogrheimheader.png" width="100%">
 </p>
 
 [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/190635)
