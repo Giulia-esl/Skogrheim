@@ -7,6 +7,7 @@
 - PapyrusUtil SE - Modders Scripting Utility Functions
 - powerofthree's Papyrus Extender
 - ConsoleUtilSSE NG
+- JContainers SE
 - SSE Display Tweaks
 - Auto Input Switch
 - Crash Logger SSE AE VR - PDB support
