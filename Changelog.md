@@ -16,8 +16,7 @@
 ## Removed
 
 ## Bugfixes and compatibility
-
-### Fixes and Compatibility
+- Reorganized several **modlist sections** to improve clarity, navigation, maintenance, and overall quality of life.
 * Fixed the **Dwemer Armor SE** setup by removing the incompatible Italian `.esp` translation used alongside the current `.esl` version, which could cause duplicated armor entries.
 * Fixed the **Mythic Dawn Armor SE** HDT-SMP setup by removing the redundant `1NDArmor.esp` plugin and keeping `1NDArmor.esl` as the main plugin.
 * Completely revised the **Infantry Armor SE** setup to ensure proper HDT-SMP compatibility.
