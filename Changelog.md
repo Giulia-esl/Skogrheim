@@ -1,17 +1,18 @@
 # CHANGELOG FOR V1.0
 ## Added
-Added a comprehensive Riverwood overhaul setup.
-Added Riverwood Has Walls - A Full Overhaul.
-Added Riverwood Has Walls - Optimization.
-Added Riverwood Has Walls - PBR - Grey.
-Added Riverwood Has Walls - Patches Collection for compatibility with the surrounding Riverwood setup.
-Added Ivy - Gates of Riverwood.
-Added Ivy - Faendal Home Overhaul.
-Added Ivy - Riverwood Small Bridge Replacer.
-Added Ivy - Riverwood Windmill Apothecary.
-Added Ivy - Riverwood Small Addon.
-Added Ivy - Riverwood Well Addon.
-Added Ivy - Cozy Corner Patch Hub to provide compatibility patches for the expanded Riverwood
+- Added a comprehensive **Riverwood overhaul** setup.
+- Added **Riverwood Has Walls - A Full Overhaul**.
+- Added **Riverwood Has Walls - Optimization**.
+- Added **Riverwood Has Walls - PBR - Grey**.
+- Added **Riverwood Has Walls - Patches Collection** for compatibility with the surrounding Riverwood setup.
+- Added **Ivy - Gates of Riverwood**.
+- Added **Ivy - Faendal Home Overhaul**.
+- Added **Ivy - Riverwood Small Bridge Replacer**.
+- Added **Ivy - Riverwood Windmill Apothecary**.
+- Added **Ivy - Riverwood Small Addon**.
+- Added **Ivy - Riverwood Well Addon**.
+- Added **Ivy - Cozy Corner Patch Hub** to provide compatibility patches for the expanded Riverwood setup.
+
 ## Removed
 
 ## Bugfixes and compatibility
