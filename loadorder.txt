@@ -80,6 +80,9 @@ ccafdsse001-dwesanctuary.esm
 _ResourcePack.esl
 unofficial skyrim special edition patch.esp
 unofficial skyrim creation club content patch.esl
+UOSC.esl
+Navigator-NavFixes.esl
+Unofficial Skyrim Modders Patch.esp
 Aqua.esl
 Kanjs - Holdings of Jarl Gjalund.esl
 Kanjs - The Wolf Queen Books.esl
@@ -87,16 +90,38 @@ Landscape and Water Fixes.esp
 Darenis Spells - Merchants.esp
 FuzzBeed Resources.esp
 Grand Solitude - The Walls of High King Erling.esp
+Mostly Treeless Tundra 2.esp
 Children of the North Wind.esm
 BluePalaceTerrace.esp
+Skyrim Extended Cut - Saints and Seducers.esp
+Bittercup - Tweaks and Enhancements.esp
 Better Dynamic Snow SE - DisableRefs.esm
 SnozzResources.esp
 BluePalaceTerrace-Grand Solitude-Patch.esl
 TrueHUD.esl
-PGPatcher.esp
 NoSillyPhysicsDamage.esl
-DynDOLOD.esm
+Vigilant.esm
+1NGarmor.esl
+1NDArmor.esl
+1Dwemer.esl
+1Markynaz.esl
+1WR.esl
+1YsmirArmorSE.esl
+KvetchiMercenary.esl
+1AtmoranBattleaxe.esl
+ColovianPrince.esl
+WoodlandWizardRobe.esl
+PerkEntryPointExtender.esl
+LexiconSKSE.esl
+CritterSpawnMaster.esl
+RMB SPID - Core Definitions.esp
+AHZmoreHUDInventory.esl
+OCF.esp
+ethqnm ice test.esl
+1AncientImperial.esl
+PigIronSet.esl
 SkyUI_SE.esp
+Hearthfires Houses Building Fix.esp
 I4IconAddon.esp
 Better Dynamic Snow SE.esp
 SMIM-SE-FarmhouseFlickeringFix.esp
@@ -105,30 +130,35 @@ SMIM-SE-RiftenDocksRopesObjectFix.esp
 SMIM-SE-DungeonsCliffsIceSkirts.esp
 SMIM-SE-ShackRoofFixesDragonborn.esp
 SMIM-SE-SolitudeDocksFixes.esp
+ICNs_ImmersiveCollegeNPCs.esp
+Audio Overhaul Skyrim.esp
+Immersive Sounds - Compendium.esp
+AOS_ISC_Integration.esp
 Nature of the Wild Lands.esp
 COTN - Falkreath.esp
+Landscape Fixes For Grass Mods.esp
 COTN - Dawnstar.esp
-Resources - The Great Cities.esp
-The Great City of Winterhold v4.esp
 COTN - Morthal.esp
 JK's The Bards College.esp
 Grand Solitude - JKs Bards College patch.esp
-The Great City of Falkreath.esp
-COTN Falkreath - The Great City of Falkreath patch.esp
+DL_NotWL_InitiallyDisable_Reference_Patch.esp
+Complementary Grass Fixes.esp
 COTN - Winterhold.esp
-TGCotN Winterhold.esp
+Myrwatch - Tweaks and Enhancements.esp
 AI Overhaul.esp
-The Great City of Dawnstar.esp
-COTN Dawnstar - The Great City of Dawnstar Patch.esp
+Resources - The Great Cities.esp
 JK's Fort Dawnguard.esp
+Hendraheim - Tweaks and Enhancements.esp
 RealisticNordShips2.0.esp
 JK's Dark Brotherhood Sanctuary.esp
 Swindlers.esp
 JK's Understone Keep.esp
+CC Tundra Homestead - Tweaks and Enhancements.esp
 The Great Town of Karthwasten.esp
 JK's Raven Rock.esp
 Locked Chests Have Keys.esp
 The Great Town of Shor's Stone.esp
+CC Farming - Tweaks and Enhancements.esp
 JK's Markarth Outskirts.esp
 Fort Dunstad.esp
 The Great Village of Kynesgrove.esp
@@ -141,14 +171,18 @@ JK's Whiterun's Outskirts.esp
 JK's Castle Dour.esp
 The Great Village of Old Hroldan.esp
 BrokenFang.esp
+Remove Hanging Moss From Trees.esp
+Hearthfire Has Snow.esp
 WhiteRiverWatch.esp
+JKs Whiterun Outskirts - USSEP Patch.esp
+JKs Whiterun Outskirts - LAWF Patch.esp
 Ryn's Lost Valley Redoubt.esp
 JK's High Hrothgar.esp
-IcyFixes.esp
 JK's Solitude Outskirts.esp
 JK's Thieves Guild.esp
 Deadly Dragon Lair Locations.esp
 Witcherun A Verdant Whiterun Overhaul.esp
+JKs Solitude Outskirts - Grand Solitude patch.esp
 Roastlawyer's Restored Whiterun Defences.esp
 JK's The Winking Skeever.esp
 JK's Sky Haven Temple.esp
@@ -157,11 +191,13 @@ Ryn's Karthspire.esp
 JK's Windhelm's Outskirts.esp
 JK's Riften Outskirts.esp
 Sunderstone.esp
+EvilDeadTrees.esp
 Redoran.esp
 This Is Jorrvaskr.esp
 JK's Tel Mithryn.esp
 Ryn's Standing Stones.esp
 JK's Arnleif and Sons Trading Company.esp
+Riverwood Has Charm.esp
 JK's Jorrvaskr.esp
 JKs Jorrvaskr - This Is Jorrvaskr patch.esp
 JK's Mistveil Keep.esp
@@ -171,12 +207,10 @@ JK's Nightingale Hall.esp
 JK's Palace of the Kings.esp
 Snazzy Interiors - JKs Palace of the Kings.esp
 SilentMoons.esp
-Fort Greymoor.esp
 JK's Temple of Dibella.esp
 Brittleshin.esp
 JK's The Hag's Cure.esp
-The Great City of Morthal.esp
-COTN Morthal - The Great City of Morthal Patch.esp
+Reclusive Reachcliff Cave.esp
 Restored WR Defences - JK's Whiterun Outskirts Patch.esp
 Fort Fellhammer.esp
 Ryn's Sleeping Giant Inn.esp
@@ -192,23 +226,27 @@ Lund's Hut Overhaul.esp
 JK's Dragonsreach.esp
 Ryn's Gerdur's House.esp
 Skyrim On Skooma.esp
+Ryn's Dragon Mounds Grass Fix.esp
 Robbers Gorge.esp
 Ryn's GoldenGlow Estate.esp
 Stendarr Rising.esp
 JK's Silver-Blood Inn.esp
+With Friends Like These - Abandoned Shack Overhaul.esp
+Faendal Home Overhaul.esp
 Ryn's Riverwood Trader.esp
 Valtheim.esp
 Ryn's Western Watchtower.esp
 JK's Elgrims Elixirs.esp
+Riverwood Has Walls.esp
 Skybound.esp
 JK's Bee and Barb.esp
 Ryn's Broken Tower Redoubt.esp
-Kynes Breath - Frokis Shack Overhaul.esp
+Mostly Treeless Tundra - Nature of the Wild Lands Patch.esp
 JK's The Pawned Prawn.esp
 JK's New Gnisis Cornerclub.esp
 JK's Radiant Raiment.esp
+Great Village of Kynesgrove - Landscape and Water Fixes Patch.esp
 COTN Winterhold - Castle Interior Tweaks.esp
-Ryn's Faendal's House.esp
 Harrowing Hamvir Dustman.esp
 JK's Riverwood Trader.esp
 JK's Ryn's Riverwood Trader.esp
@@ -216,153 +254,236 @@ Ryn's Lumber Mills.esp
 Ryn's Bleakwind Basin.esp
 Ryn's Sven's House.esp
 Ryn's Saarthal.esp
+Freak's Floral Solstheim.esp
 man_DaedricShrines.esp
 Ryn's Mistwatch Folly.esp
+Nature of the Wildlands - Ryn's Standing Stones.esp
 The Great City of Rorikstead.esp
 COTN Falkreath - Nature of the Wildlands patch.esp
 Ryn's Crabber's Shanty.esp
 JK's The Bannered Mare.esp
-SolitudeTempleFrescoes.esp
+Natures Respite.esp
+JKs Riften Outskirts - LAWF patch.esp
+ECSS - Staff of Sheogorath Patch.esp
+Witcher Horses 2.0.esp
+JKs Solitude Outskirts - LAWF patch.esp
+JKs Markarth Outskirts - Nature of the Wild Lands patch.esp
 JK's White Phial.esp
+Unfortunate End.esp
+SolitudeTempleFrescoes.esp
+Children of the North Wind - LFFGM Patch.esp
 Ryn's Secunda's Kiss.esp
 Ryn's Robber's Gorge.esp
+JKs Solitude Outskirts - DK Nord Ships patch.esp
 JK's Angelines Aromatics.esp
+JK's Whiterun Outskirts Grass Fix.esp
 Snowpoint.esp
 JK's Temple of Talos.esp
 Bannermist.esp
 JK's Candlehearth Hall.esp
+Weynon Stones Overhaul.esp
 JK's The Ragged Flagon.esp
 COTN Falkreath - AI Overhaul patch.esp
-TGCotN Winterhold - AI Overhaul patch.esp
+RLM - Great Village of Mixwater Mill_Patch.esp
 JK's Septimus Signus's Outpost.esp
 Hunterborn.esp
 Pinecones.esp
 COTN Winterhold - AI Overhaul (CIE) patch.esp
-Dynamic Boats at Docks.esp
-Dynamic Boats at Docks - TGC Dawnstar Patch.esp
+LegacyOfTheNorth.esp
 Innocence Lost - Quest Expansion.esp
-COTN Falkreath - TGCF - Landscape and Water Fixes Patch.esp
-waterplants.esp
+COTN Falkreath - Landscape and Water Fixes Patch.esp
 Dlizzio's Mesh Fixes.esp
+waterplants.esp
 JK's Bits and Pieces.esp
 JK's Warmaiden's.esp
+Vigilant CBBE Patch.esp
+VigilantNavFix.esp
 JK's Arcadia's Cauldron.esp
 Ryn's Bleakwind Basin _USSEP_Patch.esp
+Riverwood Has Charm - Ivy Faendal Home Overhaul Patch.esp
 JK's Rift Retreat.esp
 Riverside Treehouse.esp
 JK's Sadris Used Wares.esp
+RLM - Nature of the Wild Lands_Patch.esp
+Mostly Treeless Tundra - Ryn's Bleakwin Basin.esp
 Ryn's Alchemists Shack.esp
+Arena.esp
+JKs Windhelm Outskirts - LAWF patch.esp
 Infiltration - Quest Expansion.esp
+COTN - Falkreath Gonzeh.esp
+Nature of the Wildlands - Ryn's Bleakwind Basin.esp
+COTN Falkreath - Fixes.esp
+IcyCaveRemaster.esp
 Landscape and Water Fixes - Patch - Farming.esp
+JKs Whiterun Outskirts - Nature of the Wild Lands patch.esp
 Ruins of Rkund Overhaul - Sevnce.esp
 JK's Temple of Kynareth.esp
-Solitude Skyway SE.esp
 Redwater Den - Exterior Overhaul.esp
 Ryn's Azura's Shrine.esp
 Landscape and Water Fixes - Patch - Tundra Homestead.esp
 Ryn's Ustengrav.esp
+Dynamic Boats at Docks.esp
 Dynamic Boats at Docks - JKs Solitude Outskirts Patch.esp
 mihailchickenvariants.esp
 BleakTower.esp
 Diverse Hunters Camps.esp
 COTN Morthal - AI Overhaul Patch.esp
 The Heart Of Dibella - Quest Expansion.esp
-Sounds of Towns and Cities.esp
+Nature of the Wildlands - Ryn's Dragon Mounds AIO.esp
 mihailhangingchickens.esp
+Sounds of Towns and Cities.esp
 Children of the North Wind - Landscape & Water Fixes Patch.esp
 Dynamic Boats at Docks - JK's Raven Rock.esp
 Ramshackle Trading Post - Overhual.esp
 COTN Dawnstar - AI Overhaul Patch.esp
 Nature of the Wild Lands - Ryn' Lost Valley Redoubt patch.esp
 Children of the North Wind - NOTWL Patch.esp
+Great Town of Karthwasten - Nature of the Wild Lands patch.esp
 Ryn's Anise's Cabin.esp
 Ryn's Anise's Cabin - USSEP patch.esp
 TheOnlyCureQuestExpansion.esp
+Riverwood Has Charm + Walls.esp
 GraywinterWatch.esp
+RLM - CC-Fishing_Patch.esp
 mihailcookedskeever.esp
+Children of the North Wind - USMP patch.esp
 mihailmatingcrabs.esp
 Grand Solitude - Dlizzio's Mesh Fixes patch.esp
-IcyCaveRemaster.esp
-SkyrimCaveFixes.esp
 AdditionalHearthfireDolls.esp
-Nature of the Wild Lands - JK Whiterun Outskirts.esp
+AcousticTemplateFixes.esp
 TheGiftofSaturalia.esp
 Ryn's Lumber Mills - Fishing patch.esp
 Markarth - City of Stone.esp
+AdoptionAndMovingFix.esp
 IDE Hearthfire.esp
+RLM - DKs Realistic Nord Ships _Patch.esp
+Ivy - Riverwood Windmill Garden.esp
+Riverwood Has Walls - Ivy Windmill Apothecary Patch.esp
 Ryn's Lumber Mills - LAWF patch.esp
 COTN Falkreath - Grass Mods Patch.esp
+Riverwood Has Charm - Ivy Windmill Apothecary Patch.esp
+Riverwood Has Charm + Walls - Ivy Windmill Apothecary Patch.esp
+ECSS - Shadowrend Patch.esp
 PaarthurnaxQuestExpansion.esp
 College Of Winterhold - Quest Expansion.esp
 Diverse Hunter Camps Hunters Rest.esp
 Nature of the Wild Lands - Bannermist.esp
-TGC Winterhold - COW Quest Expansion Patch.esp
+Children of the North Wind - Thuldor's Ivarstead Patch.esp
+Mostly Treeless Tundra - JK's Whiterun Outskirt.esp
 mihailhawkandtern.esp
 IlinmereTower.esp
 COTN Dawnstar - Nord Ships Patch.esp
+Great Village of Kynesgrove - USSEP Patch.esp
 IDE Stormcloaks.esp
 Missives.esp
 Grand Solitude - Solitude and Temple Frescoes Complete ESP patch.esp
+FS_GreenDenDrunkenHuntsmanOverhaul.esp
+Skyfall Sleeping Tree Overhaul.esp
 Grand Solitude - Nature of the Wild Lands patch.esp
 Nature of the Wild Lands - Ryn's Broken Tower Redoubt patch.esp
 Nature of the Wild Lands - Ryn's Robber's Gorge patch.esp
 Ryn's Ustengrav - USSEP patch.esp
+Gates of Riverwood.esp
+Riverwood Has Walls - Ivy Gates of Riverwood Patch.esp
 Thuldor's Ivarstead - AI Overhaul.esp
+Nature of the Wildlands - Sunderstone.esp
+THTE - SLAWF Patch.esp
 Nature of the Wild Lands - Ryn's Mistwatch Folly patch.esp
 Nightgate - NOTWL - Patch.esp
+Great Village of Kynesgrove - AI Overhaul Patch.esp
+Nature of the Wildlands - Ryn's Anise Cabin.esp
+JKs Bee and Barb - Vigilant patch.esp
+JKs Windhelm Outskirts - DK Nord Ships patch.esp
+Mostly Treeless Tundra - Evil Dead Trees.esp
+The Standing Sound Stones.esp
+StandingSoundStones_Ryns Patch.esp
 FDE Ralof.esp
 mihailringneckedpheasant.esp
 Nature of the Wild Lands - Ryn's Karthspire patch.esp
 JKs Sky Haven Temple - Nature of the Wild Lands patch.esp
 Nature of the Wild Lands - CC Tundra Homestead.esp
-TGC Winterhold - LAWF Patch.esp
 IDE Dawnguard Vigilants.esp
+Myrwatch_BugFix_USEEP_Fgtx.esp
+Riverwood Has Walls - NOTWL Patch.esp
+Great Town of Karthwasten - AI Overhaul Patch.esp
+Myrwatch - TnE - USCCP Merged.esp
 Haunting Harmonies of Hjaalmarch.esp
+Riverwood Has Charm - AI Overhaul Patch.esp
 COTN Dawnstar - Nature of the Wild Lands patch.esp
+Armors of the Velothi Pt2.esp
+TGV Mixwater - Ryn's Lumber - NavMesh Patch.esp
+Haunted Shipwrecks.esp
 FGCOldChampionHalberd.esp
+Mostly Treeless Tundra - CC Tundra Homestead.esp
 mihailowl.esp
 Children of the North Wind - USSEP Patch.esp
 Ryn's Goldenglow Estate - LAWF patch.esp
 Ryn's Standing Stones - USSEP patch.esp
 Thuldor's Ivarstead - Landscape and Water Fixes.esp
+JKs Septimus Signus Outpost - DK Realistic Nord Ships patch.esp
 Ryn's Saarthal - USSEP_USMP patch.esp
 Landscape and Water Fixes - CC Fishing patch.esp
-The Standing Sound Stones.esp
+Great Village of Old Hroldan - Landscape and Water Fixes Patch.esp
+JKs Solitude Outskirts - Nature of the Wild Lands patch.esp
+JKs Solitude Outskirts - CC Fishing patch.esp
+JKs Markarth Outskirts - Witcher Horses patch.esp
+Civil War Champions - Reduced Cut.esp
+With Friends Like These - NOTWL Patch.esp
 shalidor's maze fixes.esp
 Shadows Of Sunlight - In Small Exterior World Spaces.esp
 Mara's Eye Pond - Overhaul.esp
 COTN Morthal - Nature of the Wildlands patch.esp
 Nature of the Wild Lands - Ryn's Goldenglow Estate patch.esp
+Great Village of Mixwater Mill - USSEP Patch.esp
+Mostly Treeless Tundra - Harrowing Hamvir Dustman Patch.esp
 FDE Borgakh.esp
 Nature of the Wild Lands - Ryn's Western Watchtower patch.esp
 Ryn's Western Watchtower - USSEP patch.esp
 COTN Dawnstar - CC - Vigil Enforcer Patch.esp
+Faendal Home Overhaul - Nature of the Wild Lands Patch.esp
 COTN Falkreath Addons.esp
 COTN Falkreath - NotWL + Addons patch.esp
+Lund's Hamlet - TGC Rorikstead - Patch.esp
 TheGiftOfSaturalia_CC_Patch.esp
 Ryn's Goldenglow Estate - USSEP patch.esp
 Ryn's Mistwatch Folly - USSEP patch.esp
 mihailnixcreatures.esp
 CoMAP - Shrines and Altars.esp
 COTN Morthal - Nord Ships patch.esp
-Lund's Hamlet - TGC Rorikstead - Patch.esp
 Mara's Eye Pond - NOTWL - Patch & Addon.esp
+Great Village of Old Hroldan - USSEP Patch.esp
+JKs Whiterun Outskirts - CC Fishing patch.esp
+IlinmereTower - Ryn's Standing Stones Patch.esp
 Ryn's Karthspire - LAWF patch.esp
 Nightgate - CC Alternative Armors Iron - Patch.esp
 JKs Nightgate Inn - CC Alternative Iron Armors patch.esp
-IlinmereTower - Ryn's Standing Stones Patch.esp
 Nature of the Wild Lands - Daedric Shrines.esp
+JKs Nightgate Inn - Witcher Horses (regular) patch.esp
+JKs Windhelm Outskirts - CC Ebony Plate Armor patch.esp
+Riverwood Has Charm - USSEP Patch.esp
+Navigator - Children of the North Wind Patch.esp
+JKs Riften Outskirts - DK Nord Ships patch.esp
+SightlessNavFix.esp
 Ryn's Standing Stones - Landscape and Water Fixes Patch.esp
+Kad_MoonMonkRobes.esp
+Mostly Treeless Tundra - Ryn's Standing Stones.esp
+Riverwood Addon Standalone.esp
+Riverwood Has Walls - Ivy Riverwood Small Addon Patch.esp
 AbandonedPrisonTweaks.esp
 Disable Auto Vanity Mode.esp
 MCMHelper.esp
-TrueDirectionalMovement.esp
 Ryn's Bleakwind Basin - LAWF patch.esp
 COTN Morthal - CC - Fishing Patch.esp
 COTN Morthal - Landscape and Water Fixes Patch.esp
-TGC Winterhold - Missives patch.esp
 COTN Falkreath - Missives patch.esp
+JKs Whiterun Outskirts - Tundra Homestead Patch.esp
+Creation Club Home Requirements - AIO.esp
+CauseTweakAlternateStart.esp
+Landscape and Water Fixes - Patch - USMP.esp
 Whispers of the Daedric Princes.esp
+WoDP - Mandragorasprouts.esp
+Riverwood Bridge Replacer.esp
+Riverwood Has Charm - Ivy Riverwood Small Bridge Patch.esp
 SMIM - Robbers Gorge Patch.esp
 Lund's Hamlet - CC Alternative Armors Silver - Patch.esp
 Great Town of Shor's Stone - AI Overhaul Patch.esp
@@ -370,20 +491,14 @@ Great Town of Shor's Stone - USSEP Patch.esp
 Lund's Hamlet - NOTWL - Patch.esp
 Nature of the Wild Lands - Ryn's Saarthal patch.esp
 COTN Falkreath - CC - Fishing Patch.esp
+Great Town of Karthwasten - Landscape and Water Fixes Patch.esp
+Great Village of Old Hroldan - CC - Fishing Patch.esp
+Whiterun Imperial Camp Fixes.esp
+Unfortunate End - Locked Chests Have Keys patch.esp
+Ivy - Riverwood Well.esp
+Riverwood Has Walls - Ivy Riverwood Well Addon Patch.esp
 AI Overhaul - Fishing Addon.esp
-Cataphract - Armored Footsteps Rework -.esp
-Unique FX Shader Sounds.esp
-Unique FX Shader Sounds - Ashpiles.esp
-Murmurs and Mead.esp
-Ambient Warfare.esp
-Babbling Brooks - A Water Audio Overhaul.esp
-Distant Rolling Thunder.esp
-Magical Potion Sounds.esp
-MurderOfSongbirds.esp
 Revenant Spirits of the Soul Cairn.esp
-VolkiharSoundscapeOverhaul.esp
-Whispering Tomes of Apocrypha.esp
-WildwoodEchoes.esp
 College of Winterhold Quest Start Fixes.esp
 Sensible Oculory Solution - Logical Mzark Puzzle.esp
 Lush Dragonsreach Pools.esp
@@ -401,21 +516,40 @@ FDE Erik.esp
 DrakeKnightGreatsword.esp
 Children of the North Wind - BDS.esp
 Landscape and Water Fixes - Patch - Alternative Armors - Elven Hunter.esp
+Locked Chests Have Keys - Embershard patch.esp
+Great Town of Karthwasten - USSEP Patch.esp
+Great Village of Mixwater Mill - Landscape and Water Fixes Patch.esp
+ogEmperorCrab.esp
+dunPOISoldiersRaidOnStartTweak.esp
+VolkiharSoundscapeOverhaul.esp
+Ryn's Gerdur's House - USSEP patch.esp
+Riverwood Has Charm - Ryn's Gerdur's House Patch.esp
+Riverwood Has Charm - Ivy Gates of Riverwood Patch.esp
 Ryn's Lumber Mills - USSEP patch.esp
 Catches Cook on Campfires.esp
 Great Town of Shor's Stone - Redguard Elite Armaments Patch.esp
 Thuldor's Ivarstead - CC Redguard Patch.esp
+DestructibleDisplayCases.esp
+1AncientImperial.esp
+Navigator - Snozz Fort Fellhammer Patch.esp
+JKs Bee and Barb - AI Overhaul Patch.esp
+CC Dawnfang Duskfang - No Forced Quest.esp
+Navigator - JK BeeBarb + JK Elgrims Patch.esp
+Ryn's Alchemists Shack - Vigilant patch.esp
+Great Town of Karthwasten - Redguard Elite Armaments Patch.esp
+JKs Windhelm Outskirts - Witcher Horses patch.esp
+Riverwood Addon Standalone - Without Trees Patch.esp
+Faendal Home Overhaul - Gates of Riverwood.esp
+Ivy - Riverwood Windmill Garden - USSEP Patch.esp
 FDE Aranea.esp
 FDE Brelyna.esp
 FDE Camilla.esp
 FDE Eola.esp
-FS_GreenDenDrunkenHuntsmanOverhaul.esp
 FDE Jenassa.esp
 FDE Faendal.esp
 BluePalaceTerrace-AI Overhaul-patch.esp
 FDE Faralda.esp
 FDE Mjoll.esp
-JKs Bee and Barb - AI Overhaul Patch.esp
 FDE Illia.esp
 FDE Jenassa Part 2.esp
 FDE Jordis.esp
@@ -451,14 +585,12 @@ TS Suvaris Atheron WeelBones Replacer.esp
 The Wicked - WeelBones' Overhaul.esp
 leyrur daelkhun Luaffyn WeelBones Replacer.esp
 Far-Shield - WeelBones' Svana Replacer.esp
-EolaDF.esp
-YsoldaDF.esp
-DaedricArmorRedone.esp
 CommonClothing-JarlSleeves.esp
 JS Unique Utopia SE - Daggers - Johnskyrim.esp
 Fate Cards Standalone.esp
 Fate Cards Standalone Medieval Retexture.esp
 Fate Cards Standalone Tweaks.esp
+Reclusive Reachcliff Cave - Locked Chests Have Keys patch.esp
 NamirasHarvester.esp
 FLESHCARVER BLADES.esp
 V_VikingWarAxe.esp
@@ -468,10 +600,12 @@ FGCRoyalVoulge1-1.esp
 FGCSentinelZweihander.esp
 FGCBanneredge.esp
 FGCNamirasMaw.esp
+Landscape and Water Fixes - Patch - Navigator ESL.esp
 FGCSmithscriptGreathammer.esp
 FGCGreatmaceOfBlasphemy.esp
 FGCSilverguard.esp
 FGCImperialEliteGreatswordRE.esp
+Windcaller.esp
 FGCDraugrslayerGreatsword.esp
 JKs Sinderions Field Laboratory - CC - Fishing patch.esp
 FGCSamTheBattlePan.esp
@@ -505,7 +639,6 @@ A_Potato_Plant-BOS.esp
 Praedy's Gemstones.esp
 Praedy's SoulEssenceGem.esp
 Praedy's SoulGems.esp
-Precision.esp
 TheGiftOfSaturalia_Skooma_Patch.esp
 Innocence Lost QE - USSEP Patch.esp
 HouseOfHorrorsQuestExpansion.esp
@@ -520,40 +653,53 @@ Canidae - Pelt Replacer.esp
 Canidae - Red Wolf Leveled List Addon.esp
 mihailbonehawkreplacer.esp
 Fluffworks.esp
-Fluffworks - CC Wild Horse Patch.esp
 RealRabbitsHD.esp
 WhiteStag.esp
-Fluffworks - Horse Addon.esp
+Vanaheimr Landscapes.esp
+Vanaheimr Landscapes - SnowShader.esp
 Better Dynamic Snow SE - No Glacier Snow.esp
 dD - Enhanced Blood Main.esp
-Fancy Sleeping Seasons.esp
 ICFTundarShrubsMixItUp.esp
 ICFTundraShrubsMixItUpSOS.esp
 Ivy Replacer BOS.esp
 WiZkiD Forgotten Potions.esp
 HPP - Vaermina's Torpor.esp
-MoonGlowSize.esp
+BrokenFang - Locked Chests have Keys patch.esp
 USSEP - Broken Fang Patch.esp
 Deadly Dragon Lair Locations - Better Dynamic Snow Patch.esp
 Nightgate - USSEP - Patch.esp
 Ryn's Alchemists Shack - LAWF patch.esp
 Ryn's Alvor's House - USSEP patch.esp
 Ryn's Azura's Shrine - Encounter Zone Overhaul consistency patch.esp
-Ryn's Gerdur's House - USSEP patch.esp
 Ryn's Riverwood Trader - AI Overhaul patch.esp
 Ryn's Sleeping Giant Inn - AI Overhaul patch.esp
 Children of the North Wind - Ryn's Standing Stones Patch.esp
 Landscape and Water Fixes - Patch - Hendraheim.esp
 JKs Sky Haven Temple - USSEP Patch.esp
 Diverse Hunter Camps Hunters Rest NOTWL.esp
+White River Watch - Locked Chests Have Keys patch.esp
+Snowpoint - Locked Chests Have Keys patch.esp
+Ryn's Lost Valley Redoubt - Locked Chests Have Keys patch.esp
+Skybound - Locked Chests Have Keys patch.esp
+Valtheim - Locked Chests Have Keys patch.esp
+Great Village of Kynesgrove - CC - Fishing Patch.esp
+JKs Solitude Outskirts - USSEP patch.esp
+JKs Solitude Outskirts - AI Overhaul patch.esp
+Nature of the Wildlands - Ryn's Ustengrav.esp
+JKs Windhelm Outskirts - USSEP patch.esp
+JKs Riften Outskirts - CC Wild Horses patch.esp
+JKs Riften Outskirts - AI Overhaul patch.esp
+JKs Markarth Outskirts - CC Fishing patch.esp
+With Friends Like These - USSEP Patch.esp
+Ivy - Riverwood Windmill Garden - Nature of the Wild Lands.esp
+Riverwood Has Charm + Walls - Ryn's Gerdur's House Patch.esp
+1FS.esp
 Landscape and Water Fixes - Patch - Myrwatch.esp
 Landscape and Water Fixes - Patch - Vigil Enforcer Armor Set.esp
 BlendedRoads.esp
 FYX - Riekling Painting Decals.esp
 Shaders of Solstheim.esp
 Angi's Camp Archery Targets.esp
-HQ Ivy Fences for Riverwood.esp
-Diverse Fences BOS.esp
 Samples of Stools - A Diverse Bar Stool Replacer.esp
 Rustic Repose - BOS Distributed.esp
 Reclusive Respite - BOS Color Variance.esp
@@ -593,18 +739,19 @@ JKs Temple of Mara - Solitude and Temple Frescoes patch.esp
 JKs Temple of Mara - AI Overhaul Patch.esp
 JKs Nightingale Hall - Daedric Shrines patch.esp
 JKs Ragged Flagon - AI Overhaul Patch.esp
-DestructibleDisplayCases.esp
 JKs Ragged Flagon - USSEP Patch.esp
 JKs Mistveil Keep - AI Overhaul Patch.esp
 Solitude Braziers.esp
 JKs Bards College - AI Overhaul patch.esp
 Grand Solitude - CC Gray Cowl Returns patch.esp
 Grand Solitude - Missives patch.esp
+Grand Solitude - Locked Chests Have Keys patch.esp
 JKs Castle Dour - Nature of the Wild Lands patch.esp
 Grand Solitude - CC Lords Mail patch.esp
 Grand Solitude - CC Alternative Armors - Leather patch.esp
 Grand Solitude - CC Crossbows patch.esp
 JKs Castle Dour - Additional Hearthfire Dolls patch.esp
+Grand Solitude - Additional Hearthfire Dolls patch.esp
 Grand Solitude - CC Alternative Armors - Dragon Plate patch.esp
 Grand Solitude - CC Civil War Champions patch.esp
 Grand Solitude - FDE Faralda patch.esp
@@ -649,8 +796,6 @@ CoMAP - Hearthfire Settlements.esp
 CoMAP - Jorrvaskr Marker.esp
 CoMAP - KhajiitCaravans.esp
 CoMAP - Stendarr Marker.esp
-SkyrimCaveFixes-CC.esp
-SkyrimCaveFixes-USSEP.esp
 Showcases of Skyrim - Destructible Display Cases patch.esp
 HearthFires Display Case Fix SE.esp
 HFs_Diverse(BOS)_Satchel.esp
@@ -661,7 +806,6 @@ JKs High Hrothgar - Additional Hearthfire Dolls Patch.esp
 JKs Nightingale Hall - Additional Hearthfire Dolls patch.esp
 COTN Dawnstar - Additional Hearthfire Dolls Patch.esp
 COTN Dawnstar - CC - Staff of Sheogorath Patch.esp
-flower mod.esp
 JKs Thieves Guild - Nature of the Wild Lands patch.esp
 nature of the wild lands - animations addon - ash.esp
 NotWL - Autumn Rift.esp
@@ -691,11 +835,198 @@ Wild Horses - Dialogues.esp
 Animals Swim.esp
 SensibleBribes.esp
 COTN Winterhold - CC - Nchuanthumz Patch.esp
-TGC Winterhold - CC Nchuanthumz patch.esp
 COTN Falkreath - CC - Elven Hunter Armor patch.esp
 COTN Falkreath - Additional Hearthfire Dolls Patch.esp
 COTN Falkreath - CC - Bittercup Patch.esp
 GTS Spells Addon.esp
+CBBE.esp
+BeardMaskFix.esp
+FactionArmorsRetexture_BlackAncientDBarmor.esp
+ForswornRetexture Unique Armor of the Old Gods.esp
+evgCLAMBER.esp
+Precision.esp
+TrueDirectionalMovement.esp
+Horsepower.esp
+Horsepower_Fall_Damage.esp
+Horsepower_Ragdoll.esp
+Fluffworks - Horse Addon.esp
+Fluffworks - CC Wild Horse Patch.esp
+Horse Flickering Mane Fix.esp
+Witcher Horses - Black Unicorn - CC Wild Horses.esp
+PhotoMode.esp
+XPMSE.esp
+Vanilla hair remake SMP NPCs.esp
+Vanilla hair remake_Unlocked.esp
+_Fuse00HairPack01.esp
+_Fuse00HairPack02_ESL.esp
+Fuse Hair Collection - For Khajiit.esp
+Fuse Hair Collection - For Khajiit - Wigs.esp
+DintHairPack23ForKhajiit.esp
+evgmodularSMPhair.esp
+evgnnsmpaccessories.esp
+evgHinterlandRanger.esp
+evgSouthboundScouts.esp
+evgInfiltratorarmor.esp
+Project ja-Kha'jay- Khajiit Diversity.esp
+smp beast tail.esp
+Imperial Armors and Weapons Retexture SE - Penitus Pants.esp
+Imperial Armors and Weapons Retexture SE - Falx Carius.esp
+Xyn's Vanilla Ebony Armor Replacer HDT-SMP.esp
+DaedricArmorRedone.esp
+_Fuse00_ArmorScout.esp
+_Fuse00_AdventurerArmor.esp
+_Fuse00_AdventurerArmor - Klimmek SPID patch by Xtudo.esp
+_Fuse00_AdventurerArmor - Fihada SPID patch by Xtudo.esp
+_Fuse00_ArmorTravelingMageCloth.esp
+LEITEUHTThalmor.esp
+LEITEUHTElves.esp
+[FB] Arcane Mage Armor.esp
+GVLT_Gryphonknight.esp
+NitesDremoraMarkynaz.esp
+NitesAncientImperialArmor.esp
+Armors of the Velothi.esp
+RMB SPID - Armors of the Velothi.esp
+RMB SPID - Armors of the Velothi II.esp
+Kad_MoonMonkNoBook.esp
+RMB SPID - Moon Monk Robes - Nerfed Enchantments.esp
+RMB SPID - Moon Monk Robes.esp
+RMB SPID - Moon Monk Robes - No Enchanted Gloves.esp
+LunarGuardArmor.esp
+RMB SPID - Lunar Guard Armor.esp
+NitesWoodlandWizardRobes.esp
+Windcaller - Beast Race Patch.esp
+dragonslayer.esp
+KhajiitEarFluff.esp
+EnhancedKhajiit_feet.esp
+JKJ- Ohmes Risaad Restored.esp
+JKJ - AI Overhaul Patch.esp
+JKJ - USSEP Patch.esp
+SkyrimMaiqReplacer.esp
+Sonders_Keyword_Distribution.esp
+SolitudeThroneFix_BOS.esp
+FNIS.esp
+Swindlers Den - Additional Hearthfire Dolls patch.esp
+Sunderstone - Locked Chests have Keys patch.esp
+Navigator - Snozz Sunderstone Patch.esp
+Redorans - Locked Chests Have Keys patch.esp
+Navigator - Snozz Redoran's Retreat Patch.esp
+Brittleshin - Locked Chests Have Keys patch.esp
+Bleak Falls Barrow Overhaul 2 - Locked Chests Have Keys patch.esp
+COTN Falkreath - Locked Chests Have Keys patch.esp
+Snozz's Halted Stream - Locked Chests Have Keys patch.esp
+Solstheim Abandoned Lodge - Overhaul - Locked Chests Have Keys patch.esp
+Great Village of Old Hroldan - AI Overhaul Patch.esp
+Great Village of Mixwater Mill - Immersion Patch.esp
+Myrwatch - TnE - CC Fishing Patch.esp
+Hendraheim - TnE - CC Fishing Patch.esp
+CCHR Hendraheim - CC Hendraheim Tweaks and Enhancements Patch.esp
+CauseTweakAllowClose.esp
+THTE - Unofficial Creation Club Content Patch.esp
+THTE - CC Fishing Patch.esp
+THTE - USSEP Patch.esp
+Quest Journal Limit Bug Fixer.esp
+SeranaEyeFix.esp
+Stamina of Steeds.esp
+stuck on screen fix.esp
+buy and sell torches.esp
+Unaggressive Dragon Priests Fix.esp
+KillMiraakSpellFix.esp
+WERoad02Fix.esp
+sosNonHorseMountAnimationFix.esp
+BlackBookFix.esp
+DwemerPistonFix.esp
+PickpocketReset.esp
+Dual Wield Poisoning.esp
+FOLIP.esp
+ECSS - Ruin's Edge Patch.esp
+AHZmoreHUD.esp
+EchoesofTamriel.esp
+EchoesofTamriel1.esp
+EchoesofTamriel0.esp
+EchoesofTamriel2.esp
+EchoesofTamriel3.esp
+Spell Tomes - I4 icons.esp
+BOOBIES_ImmersiveIcons.esp
+Auto Name Enchantments.esp
+Better Help.esp
+ASS_IconsAddon.esp
+PENIS_IconsAddon.esp
+Standing Stones - I4.esp
+Racial Abilities - I4.esp
+Racial Abilities Survival Mode - I4.esp
+AIT.esp
+RotolsMoreIcons.esp
+I4WeaponIconsOverhaul.esp
+I4ShoutIconsOverhaul.esp
+I4ArmorIconsOverhaul.esp
+Diseases - I4.esp
+b612.esp
+Legendary Map.esp
+AcousticTemplateFixes_CC_Farming.esp
+AcousticTemplateFixes_CC_Seducers.esp
+AcousticTemplateFixes_CC_Seducers_EC.esp
+AOS_EBT Patch.esp
+Cataphract - Armored Footsteps Rework -.esp
+RAIN.esp
+Stones of Solitude.esp
+EolaDF.esp
+YsoldaDF.esp
+AraneaDFE.esp
+illiaDF.esp
+JenassaDF.esp
+AelaDF.esp
+SaadiaDF.esp
+LydiaDF.esp
+BrelynaDF.esp
+SapphireDF.esp
+CamillaDF.esp
+AngiDF.esp
+ElisifDF.esp
+RayyaDF.esp
+Sanguis Noxius - SerketHetyt's Harkon & Valerica Overhaul.esp
+Reclusive Reachcliff Cave - Namira's Maw Patch.esp
+StendarrRisingUnholyVigilLetterFix.esp
+Murmurs and Mead.esp
+WildwoodEchoes.esp
+MurderOfSongbirds.esp
+Ambient Warfare.esp
+Nordic Winds.esp
+Whispering Tomes of Apocrypha.esp
+RibbitRemix.esp
+Solstheim Exterior Soundscapes.esp
+Solstheim Exterior Soundscapes - All Maker Stones.esp
+Distant Rolling Thunder.esp
+Unique FX Shader Sounds - Ashpiles.esp
+Unique FX Shader Sounds.esp
+Magical Potion Sounds.esp
+Babbling Brooks - A Water Audio Overhaul.esp
+Voiced Word Walls.esp
+Azura Audio Array.esp
+DistantDragonRoars.esp
+NyghtfallMM.esp
+SB_Traps.esp
+MoonsAndStars.esp
+SkygazerMoonsSize.esp
+Rainbows Remade.esp
+ColdBreathNG.esp
+RedMountainPlumeSE.esp
+Southfringe Crash Fix.esp
+Vanaheimr Mountains PBR.esp
+Vanaheimr - Mines and Caves - PBR.esp
+Diverse Fences BOS.esp
+HQ Ivy Fences for Riverwood.esp
+Real Water For Volcanic Mineral Pools.esp
+Freak's Floral Meadows.esp
+Freak's Floral Veil.esp
+Ivy - Riverwood Windmill Garden - AI Overhaul Patch.esp
+Static Objects Swap - Unique Wooden Bridges.esp
+Shrubbery Symphony Enhanced Greenery.esp
+NOTWL - Forgotten Vale.esp
+NotWLAnimAddon_dlc01treepatch.esp
+NOTWL - Soul Cairn.esp
+Kad_BogBlightMask.esp
+Obi's Hedge Knight Armor.esp
+InfanArBandit.esp
 Eli_Breezehome.esp
 Eli_Breezehome [PATCH - USSEP].esp
 Eli_Breezehome [ADDON - CC Armoury Expansion].esp
@@ -713,10 +1044,8 @@ JKs Sinderions Field Laboratory - Alternate Start patch.esp
 COTN Morthal - Alternate Start Patch.esp
 COTN Dawnstar - Alternate Start LAL Patch.esp
 Thuldor's Ivarstead - Alternate Start LAL.esp
-TGC Winterhold - Alternate Start patch.esp
 COTN Winterhold - Alternate Start Patch.esp
 COTN Falkreath - Alternate Start Patch.esp
-FWMF for Fantasy Paper Maps.esp
-PG_1.esp
-DynDOLOD.esp
-Occlusion.esp
+AbandonedPrisonNavFix.esp
+JKs Solitude Outskirts - Alternate Start patch.esp
+JKs Markarth Outskirts - Alternate Start patch.esp
