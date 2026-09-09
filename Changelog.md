@@ -12,6 +12,11 @@
 - Added **Ivy - Riverwood Small Addon**.
 - Added **Ivy - Riverwood Well Addon**.
 - Added **Ivy - Cozy Corner Patch Hub** to provide compatibility patches for the expanded Riverwood setup.
+- Added FYX - Water Mesh Optimization for improved water mesh performance and compatibility with Water for ENB + Community Shaders.
+- Added ethqnm’s Ice.
+- Added ethqnm’s Blowing Snow.
+- Added Glacier LOD Meshes.
+- Added TMD Epic Waterfalls.
 
 ## Removed
 
@@ -44,6 +49,11 @@
 ## Visual, Performance and World Changes
 
 ## Creation Club Content Changes
+
+## Planned / Future Implementations
+- Core Impact Framework
+- Dynamic Wind Framework
+- Animated Ice Floes and Icebergs
 
 
 
