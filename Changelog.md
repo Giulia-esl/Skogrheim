@@ -13,6 +13,10 @@
 - Added **Ivy - Riverwood Well Addon**.
 - Added **Ivy - Cozy Corner Patch Hub** to provide compatibility patches for the expanded Riverwood setup.
 - Added FYX - Water Mesh Optimization for improved water mesh performance and compatibility with Water for ENB + Community Shaders.
+- Added SunHelm Survival and Needs as the main survival framework for the modlist.
+- Added SunHelm Magical Heat Sources to integrate magical heat sources with SunHelm’s temperature system.
+- Added More Wells for SunHelm - Vanilla to expand the number of vanilla wells that can be used as water sources.
+- Added SunHelm Survival and Needs - Italian Translation for full Italian localization of the survival system.
 
 ## Removed
 
@@ -32,8 +36,6 @@
 * Removed the obsolete/redundant Navigator patch for **Children of the North Wind**, keeping only the patch compatible with the current **Navigator - Navmesh Fixes** setup.
 * Verified and preserved the correct base ordering for **Cities of the North - Falkreath** and its associated fixes package.
 * Cleaned up several `.esl` / `.esp` overlaps and dependencies across armor mods, reducing the risk of duplicated records and incompatibilities between base mods, fixes, translations, and HDT-SMP patches.
-
-## Weapon/Armor Changes/Bugfixes
 
 ## Alchemy and Food Changes
 
