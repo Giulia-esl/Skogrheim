@@ -17,8 +17,16 @@
 - Added SunHelm Magical Heat Sources to integrate magical heat sources with SunHelm’s temperature system.
 - Added More Wells for SunHelm - Vanilla to expand the number of vanilla wells that can be used as water sources.
 - Added SunHelm Survival and Needs - Italian Translation for full Italian localization of the survival system.
+- Added ethqnm’s Ice.
+- Added ethqnm’s Blowing Snow.
+- Added Glacier LOD Meshes.
+- Added TMD Epic Waterfalls.
+- Othavein UI
+
 
 ## Removed
+- Removed JK's Whiterun Exterior from the Whiterun setup.
+- Vel'dun UI
 
 ## Bugfixes and compatibility
 * Reorganized several **modlist sections** to improve clarity, navigation, maintenance, and overall quality of life.
@@ -44,14 +52,21 @@
 ## Economy Changes
 
 ## Visual, Performance and World Changes
-- Added ethqnm’s Ice.
-- Added ethqnm’s Blowing Snow.
-- Added Glacier LOD Meshes.
-- Added TMD Epic Waterfalls.
+- Reworked the Whiterun overhaul stack to improve overall compatibility and reduce unnecessary overlap between city modifications.
+- Reconfigured the Capital Whiterun / Restored Whiterun Defences compatibility stack.
+- Reviewed and corrected the Whiterun plugin load order.
+- Reviewed modlist, plugins, loadorder, lockedorder and archive configuration after the Whiterun overhaul changes.
+- Improved overall plugin consistency and dependency handling within the current load order.
+- Resolved the previously reproducible crash occurring when leaving the Riverwood Trader.
+- Performed additional runtime stability testing after the SMP reinstall, with no recurrence of the crash.
+- Reviewed the current HUD/UI stack, including SkyHUD, TrueHUD, STB Widgets / Active Effects and Othavein UI.
+- 
 
 ## Creation Club Content Changes
 
 ## Planned / Future Implementations
+- Began a new performance and memory optimization pass, with particular attention to RAM and GPU VRAM usage.
+- Identified high VRAM utilization on 12 GB GPUs as a possible source of short frametime spikes and intermittent stuttering.
 - Core Impact Framework
 - Dynamic Wind Framework
 - Animated Ice Floes and Icebergs
