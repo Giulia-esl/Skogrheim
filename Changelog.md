@@ -21,12 +21,24 @@
 - Added ethqnm’s Blowing Snow.
 - Added Glacier LOD Meshes.
 - Added TMD Epic Waterfalls.
-- Othavein UI
-
+- Othavein UI.
+- City Trees.
+- Kept Markarth Extra Mountains Edit - City of Stone
+- Confirmed the Markarth Fixed AF + Stony AF stack
+- Added/verified the City Trees patch for ALT Markarth's Forge
+- Added Capital Windhelm expanded.
+- Added Icy Windhelm.
+- Added Windgelm Bridge Revived.
+- Added Jk's Windhelm Outskirt.
 
 ## Removed
 - Removed JK's Whiterun Exterior from the Whiterun setup.
-- Vel'dun UI
+- Removed Vel'dun UI
+- Removed Witcherun
+- Removed Pleasantrees
+- Removed Jk's Castle Dour
+- Removed Jk's Bards College
+- Removed Gonzeh - Left Hand Mine Mini due to incompatibility with JK's Markarth Outskirts
 
 ## Bugfixes and compatibility
 * Reorganized several **modlist sections** to improve clarity, navigation, maintenance, and overall quality of life.
@@ -44,6 +56,34 @@
 * Removed the obsolete/redundant Navigator patch for **Children of the North Wind**, keeping only the patch compatible with the current **Navigator - Navmesh Fixes** setup.
 * Verified and preserved the correct base ordering for **Cities of the North - Falkreath** and its associated fixes package.
 * Cleaned up several `.esl` / `.esp` overlaps and dependencies across armor mods, reducing the risk of duplicated records and incompatibilities between base mods, fixes, translations, and HDT-SMP patches.
+- Consolidated the stack around Grand Solitude - The Walls of High King Erling
+* Removed/disabled standalone overhauls that had become integrated or redundant
+* Consolidated the Riften Expansion + JK's Riften Outskirts + Riften Docks Overhaul stack
+* Cleaned up the JK's Thieves Guild + GG's Thieves Guild Headquarters branch
+* Removed redundant old JK-only patches
+* Added Snazzy Interiors - Riften AIO - JKsGGs Thieves Guild HQ Patch
+* Added Snazzy Interiors - Riften AIO - RYFTEN Consistency of Windows Patch
+* Added Riften Expansion - RYFTEN Windows Patch
+* Added the FYX Temple of Mara + Better Optimized Riften Meshes patch
+* Disabled Riften Temple Sconce Fix
+* Kept Riften Temple Sconce Base Fix - Plugin Alternative BOS
+* Disabled HS Player Homes - Honeyside
+* Added Riften Docks Overhaul - SMIM
+* Added Dynamic Boats patches for Riften Docks Overhaul and Riften Expansion
+* Verified overall compatibility with City Trees, RYFTEN, and Snazzy
+* Restored proper compatibility with Riften Docks Overhaul - SMIM
+* Consolidated the Capital Windhelm Expansion + JK's Windhelm Outskirts + Windhelm Bridge Revived + Icy Windhelm stack
+* Added Rob's Bug Fixes - Capital Windhelm Expansion
+* Added Nature of the Wild Lands - Capital Windhelm Patch
+* Added City Trees - Capital Windhelm Expansion Patch
+* Added JK's New Gnisis Cornerclub - Capital Windhelm Expansion Patch
+* Added JK's Candlehearth Hall - Capital Windhelm Expansion Patch
+* Added JK's Temple of Talos - Capital Windhelm Expansion Patch
+* Added JK's Palace of the Kings - Capital Windhelm Expansion Patch
+* Added Jonado's Random Patches
+* Removed the old Windhelm - CWE Braziers Patch
+* Kept the Windhelm Brazier Replacer BOS setup
+* Verified compatibility with Dynamic Boats at Docks and DK's Realistic Nord Ships 
 
 ## Alchemy and Food Changes
 
@@ -60,7 +100,8 @@
 - Resolved the previously reproducible crash occurring when leaving the Riverwood Trader.
 - Performed additional runtime stability testing after the SMP reinstall, with no recurrence of the crash.
 - Reviewed the current HUD/UI stack, including SkyHUD, TrueHUD, STB Widgets / Active Effects and Othavein UI.
-- 
+- Reduced several redundancies between city overhauls and obsolete patches
+- Improved patch coverage for AI Overhaul, USSEP, NotWL, City Trees, and JK Interiors
 
 ## Creation Club Content Changes
 
