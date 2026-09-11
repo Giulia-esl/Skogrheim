@@ -107,7 +107,6 @@
 
 ## Planned / Future Implementations
 - Began a new performance and memory optimization pass, with particular attention to RAM and GPU VRAM usage.
-- Identified high VRAM utilization on 12 GB GPUs as a possible source of short frametime spikes and intermittent stuttering.
 - Core Impact Framework
 - Dynamic Wind Framework
 - Animated Ice Floes and Icebergs
