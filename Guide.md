@@ -18,4 +18,4 @@ e ogni profilo contiene insieme le configurazioni delle varie MCM.
 Un singolo Failed non significa necessariamente che MCM Memory sia rotto, né che il profilo sia compromesso.
 MCM Memory deve comunicare con MCM progettate da autori diversi, alcune delle quali usano controlli SkyUI standard.
 MCM Memory supporta normalmente: toggle, slider, menu, colori, text input, keymap e diversi altri controlli SkyUI/MCM Helper.
-Ma alcune mod usano controlli personalizzati. La 1.4.0 non riesce ancora a leggere correttamente tutti questi controlli.
+Ma alcune mod usano controlli personalizzati, la 1.4.0 non riesce ancora a leggere correttamente tutti questi controlli.
