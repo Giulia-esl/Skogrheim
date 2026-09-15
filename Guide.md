@@ -13,6 +13,8 @@ e ogni profilo contiene insieme le configurazioni delle varie MCM.
 - Saved Settings: Indica quanti valori di quella MCM sono presenti nel profilo
 - Auto Restore: Decide se quella specifica MCM deve essere ripristinata automaticamente quando inizi una nuova partita
 
+Ho disattivato i backup automatici per evitare di salvare delle modifiche per errore, se volete cambiare i valori delle mod da MCM, fatelo,  una volta finito aprite MCM Memory ed eseguite il backup se volete ritrovare le vostre modifiche su ogni nuova run.
+
 ## Cosa significa un “Failed”
 
 Un singolo Failed non significa necessariamente che MCM Memory sia rotto, né che il profilo sia compromesso.
